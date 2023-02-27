@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="lemon_tree_title">Lemon Tree</string>
+    <string name="lemon_tree_author">Mr. Lemon Tree</string>
+    <string name="lemon_tree_year">(2022)</string>
+
+    <string name="lemon_squeeze_title">Lemon Squeeze</string>
+    <string name="lemon_squeeze_author">Mr. Lemon Squeeze</string>
+    <string name="lemon_squeeze_year">(2022)</string>
+
+    <string name="lemon_drink_title">Lemon Drink</string>
+    <string name="lemon_drink_author">Mr. Lemon Drink</string>
+    <string name="lemon_drink_year">(2022)</string>
+
+    <string name="lemon_restart_title">Lemon Restart</string>
+    <string name="lemon_restart_author">Mr. Lemon Restart</string>
+    <string name="lemon_restart_year">(2022)</string>
+</resources>
