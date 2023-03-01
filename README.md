@@ -2,43 +2,46 @@
 Projects I have done in the Android application development courses.
 
 1. Art Space
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/art_space.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/art_space.gif" height="300"/>
 
 2. Business Card
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/business_card.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/business_card.png" height="300"/>
 
 3. Compose Quadrant
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/compose_quadrant.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/compose_quadrant.png" height="300"/>
 
 4. Courses
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/courses_1.gif)
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/courses_2.gif)
+<p float="left">
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/courses_1.png" height="300"/>
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/courses_2.png" width="300"/>
+</p>
 
 5. Dice Roller
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/dice_roller.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/dice_roller.gif" height="300"/>
 
 6. Happy Birthday
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/happy_birthday.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/happy_birthday.png" height="300"/>
 
 7. Learn Together
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/learn_together.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/learn_together.png" height="300"/>
 
 8. Lemonade
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/lemonade.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/lemonade.gif" height="300"/>
 
 9. Superheroes
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/superheroes_1.gif)
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/superheroes_2.gif)
+<p float="left">
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/superheroes_1.png" height="300"/>
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/superheroes_2.png" width="300"/>
+</p>
 
 10. Task Manager
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/task_manager.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/task_manager.png" height="300"/>
 
 11. Tip Time
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/tip_time.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/tip_time.gif" height="300"/>
 
 12. Unscramble
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/unscramble.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/unscramble.gif" height="300"/>
 
 13. Woof
-
-![](https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/woof.gif)
+<img src="https://github.com/warakorn-prasert/android-junior-portfolio/blob/main/gifs/woof.gif" height="300"/>
